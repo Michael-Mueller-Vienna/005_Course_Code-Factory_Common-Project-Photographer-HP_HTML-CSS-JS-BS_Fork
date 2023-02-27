@@ -1,0 +1,67 @@
+/* Basic Styling */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Navbar Styling */
+
+.navbar {
+  background-color: gray;
+}
+
+.material-symbols-outlined {
+  font-size: 2.1rem;
+}
+
+
+
+/* Footer Styling */
+
+footer {
+  background-color: rgb(0, 0, 0);
+  color: #fff;
+  padding: 1rem 0;
+  text-align: center;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.menu ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  margin: 0 20px;
+}
+
+.menu a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.social-media {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.social-media i {
+  color: #fff;
+  font-size: 24px;
+  margin: 0 20px;
+}
+
+.contact-us a {
+  background-color: #fff;
+  color: #333;
+  padding: 5px 10px;
+  text-decoration: none;
+}
