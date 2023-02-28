@@ -4,6 +4,20 @@ body {
   padding: 0;
 }
 
+
+/* Body altered */
+
+/* body{
+  background-image:
+  url("https://cdn.pixabay.com/photo/2017/11/26/17/25/nikon-2979478_960_720.jpghttps://cdn.pixabay.com/photo/2017/11/26/17/25/nikon-2979478_960_720.jpg" );
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mask{
+  margin: 10rem 10rem;
+}
+ */
+
 /* Navbar Styling */
 
 .navbar {
@@ -12,6 +26,54 @@ body {
 
 .material-symbols-outlined {
   font-size: 2.1rem;
+}
+
+
+/* Navbar altered */
+
+/* .logo{
+  height: 8rem;
+  width: 15rem;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.navigation{
+  text-shadow: 2px 2px 4px #e7e1e1;
+  color: aliceblue;
+} 
+
+ul{
+  font-size: 25pt;
+  padding-right: 10rem;
+  gap: 5rem;
+}
+*/
+
+
+
+
+/* colors will be unified at the end */
+
+
+.card{
+  padding-bottom: 0rem;
+  border-radius: 1em;
+}
+
+.card-body{
+  background-color: black; 
+}
+
+.card-title{
+  padding-top: 20rem;
+  color: rgb(1, 1, 15);
+  text-shadow: 2px 2px 5px rgb(15, 1, 1);
+}
+
+.sub-title{
+  color: rgb(8, 2, 0);
+  text-shadow: 2px 2px 5px rgb(12, 1, 1);
 }
 
 
@@ -24,6 +86,19 @@ footer {
   padding: 1rem 0;
   text-align: center;
 }
+
+
+
+/* Footer altered */
+
+/* footer {
+  background-color: rgb(0, 0, 0, 0.5);
+  color: #fff;
+  padding: 1rem 0;
+  text-align: center;
+  margin-top: 5rem;
+  padding-bottom: 2rem;
+} */
 
 .menu {
   display: flex;
@@ -57,6 +132,9 @@ footer {
   color: #fff;
   font-size: 24px;
   margin: 0 20px;
+
+  /* padding-bottom: 1rem; */
+
 }
 
 .contact-us a {
@@ -64,4 +142,6 @@ footer {
   color: #333;
   padding: 5px 10px;
   text-decoration: none;
+
+  /* border-radius: 5%; */
 }
