@@ -33,7 +33,7 @@ body {
 /* Contact Styling */
 
 
-.social-media-contact {
+/* .social-media-contact {
   display: flex;
   justify-content: space-around;
 }
@@ -48,9 +48,15 @@ body {
 form {
   color: white;
   font-size: 1.3rem;
-  width: 50vw;
+  width: 30rem;
+  margin-top: 10rem;
+  margin-bottom: 20rem;
 }
 
+.form-input {
+  display: flex;
+  justify-content: center;
+} */
 
 
 /* colors will be unified at the end */
@@ -80,13 +86,17 @@ form {
 
 /* Footer */
 
+/* .footer-contact {
+  margin: 0;
+} */
+
 footer {
   background-color: rgb(0, 0, 0, 0.5);
   color: #fff;
   padding: 1rem 0;
   text-align: center;
   margin-top: 5rem;
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
 }
 
 .menu {
