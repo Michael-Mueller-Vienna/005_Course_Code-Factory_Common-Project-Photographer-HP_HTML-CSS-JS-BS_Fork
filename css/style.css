@@ -67,14 +67,11 @@ form {
 
 .card-title {
   padding-top: 20rem;
-  color: rgb(1, 1, 15);
+  color: white;
   text-shadow: 2px 2px 5px rgb(15, 1, 1);
 }
 
-.sub-title {
-  color: rgb(8, 2, 0);
-  text-shadow: 2px 2px 5px rgb(12, 1, 1);
-}
+
 
 
 
