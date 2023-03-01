@@ -18,8 +18,11 @@ body {
   font-size: 1.5rem;
 }
 
-.navbar a:hover {
-  
+<<<<<<< HEAD:css/style.css
+
+/* colors will be unified at the end */
+=======.navbar a:hover {
+
   color: aliceblue;
   transition: 0.3s ease;
 }
@@ -46,6 +49,7 @@ body {
   font-size: 5rem;
 }
 
+>>>>>>>1c08080d170d7af150137933b5094262978b94f8:css/styleHome.css
 /* PortfolioSection */
 
 .card {
@@ -73,9 +77,13 @@ body {
   transition: 1s ease;
 }
 
-/* FooterSection */
+<<<<<<< HEAD:css/style.css
+/* Footer */
 
-footer {
+=======
+
+/* FooterSection */
+>>>>>>>1c08080d170d7af150137933b5094262978b94f8:css/styleHome.css footer {
   background-color: rgb(0, 0, 0, 0.5);
   color: #fff;
   padding: 1rem 0;
@@ -130,8 +138,12 @@ footer {
   color: #333;
   padding: 5px 10px;
   text-decoration: none;
-  border-radius: 5%;
+  <<<<<<< HEAD: css/style.css border-radius: 10px;
+  box-shadow: 0 0 2px white;
 }
+
+=======border-radius: 5%;
+
 
 .button-footer:hover {
   background-color: black;
@@ -139,3 +151,4 @@ footer {
   transition: 0.3s ease;
 }
 
+>>>>>>>1c08080d170d7af150137933b5094262978b94f8:css/styleHome.css
