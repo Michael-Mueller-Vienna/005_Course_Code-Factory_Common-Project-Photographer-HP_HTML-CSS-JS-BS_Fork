@@ -12,6 +12,12 @@
 .social-media-contact i {
   color: whitesmoke;
   font-size: 6rem;
+  padding: 1.1rem;
+}
+
+.social-media-contact i:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 20px;
 }
 
 form {
@@ -37,4 +43,12 @@ form {
   box-shadow: 0 0 2px white;
   background-color: #524A41;
   color: whitesmoke;
+}
+
+p {
+  margin: auto 0;
+}
+
+.navbar {
+  padding: 1.5% 0;
 }

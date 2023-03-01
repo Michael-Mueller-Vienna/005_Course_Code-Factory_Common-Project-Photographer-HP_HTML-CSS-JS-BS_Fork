@@ -1,9 +1,13 @@
+/* Background */
+
+
 body {
   background-image:
     url("https://cdn.pixabay.com/photo/2017/11/26/17/25/nikon-2979478_960_720.jpghttps://cdn.pixabay.com/photo/2017/11/26/17/25/nikon-2979478_960_720.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 
 /* NavbarSection*/
 
@@ -14,64 +18,17 @@ body {
 .material-symbols-outlined {
   font-size: 2.1rem;
 }
-.navbar a{
+
+.navbar a {
   font-size: 1.5rem;
 }
 
 .navbar a:hover {
-  
+
   color: aliceblue;
   transition: 0.3s ease;
 }
 
-
-/* HeroSection */
-
-.heroSection {
-  background-image:
-    url(https://cdn.pixabay.com/photo/2014/02/02/17/40/photos-256887_960_720.jpg);
-  height: 35rem;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.mask {
-  margin: 5rem 10rem;
-  background-color: rgba(0, 0, 0, 0.6);
-}
-
-.text-white {
-  padding: 2rem 0rem;
-  text-shadow: 2px 2px 4px #695f5f;
-  font-size: 5rem;
-}
-
-/* PortfolioSection */
-
-.card {
-  padding-bottom: 0rem;
-  border-radius: 1em;
-}
-
-.card:hover {
-  transform: scale(1.2);
-  z-index: 1;
-  transition: 1s ease;
-}
-
-.card-title {
-  margin-top: 20rem;
-  margin-bottom: 2rem;
-  border-radius: 3%;
-  color: rgb(1, 1, 15);
-  text-shadow: 2px 2px 5px rgb(243, 239, 239);
-  background: rgb(223, 211, 211, 0.3);
-}
-
-.card-title:hover {
-  opacity: 0;
-  transition: 1s ease;
-}
 
 /* FooterSection */
 
@@ -108,7 +65,7 @@ footer {
 
 .social-media {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   margin-bottom: 20px;
   margin-top: 2rem;
 }
@@ -116,7 +73,7 @@ footer {
 .social-media i {
   color: #fff;
   font-size: 30px;
-  margin: 0 5rem;
+  /* margin: 0 5rem; */
   padding-bottom: 1rem;
 }
 
@@ -138,4 +95,3 @@ footer {
   color: aliceblue;
   transition: 0.3s ease;
 }
-
