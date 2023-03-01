@@ -1,0 +1,151 @@
+body {
+  background-image:
+    url("https://cdn.pixabay.com/photo/2017/11/26/17/25/nikon-2979478_960_720.jpghttps://cdn.pixabay.com/photo/2017/11/26/17/25/nikon-2979478_960_720.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* NavbarSection*/
+
+.navbar {
+  background-color: #483829;
+}
+
+.material-symbols-outlined {
+  font-size: 2.1rem;
+}
+
+<<<<<<< HEAD:css/style.css
+
+/* colors will be unified at the end */
+=======.navbar a:hover {
+
+  color: aliceblue;
+  transition: 0.3s ease;
+}
+
+
+/* HeroSection */
+
+.heroSection {
+  background-image:
+    url(https://cdn.pixabay.com/photo/2014/02/02/17/40/photos-256887_960_720.jpg);
+  height: 35rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.mask {
+  margin: 5rem 10rem;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.text-white {
+  padding: 2rem 0rem;
+  text-shadow: 2px 2px 4px #695f5f;
+  font-size: 5rem;
+}
+
+>>>>>>>1c08080d170d7af150137933b5094262978b94f8:css/styleHome.css
+/* PortfolioSection */
+
+.card {
+  padding-bottom: 0rem;
+  border-radius: 1em;
+}
+
+.card:hover {
+  transform: scale(1.2);
+  z-index: 1;
+  transition: 1s ease;
+}
+
+.card-title {
+  margin-top: 20rem;
+  margin-bottom: 2rem;
+  border-radius: 3%;
+  color: rgb(1, 1, 15);
+  text-shadow: 2px 2px 5px rgb(243, 239, 239);
+  background: rgb(223, 211, 211, 0.3);
+}
+
+.card-title:hover {
+  opacity: 0;
+  transition: 1s ease;
+}
+
+<<<<<<< HEAD:css/style.css
+/* Footer */
+
+=======
+
+/* FooterSection */
+>>>>>>>1c08080d170d7af150137933b5094262978b94f8:css/styleHome.css footer {
+  background-color: rgb(0, 0, 0, 0.5);
+  color: #fff;
+  padding: 1rem 0;
+  text-align: center;
+  margin-top: 5rem;
+  padding-bottom: 2rem;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.menu ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  margin: 0 20px;
+}
+
+.menu a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.social-media {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  margin-top: 2rem;
+}
+
+.social-media i {
+  color: #fff;
+  font-size: 30px;
+  margin: 0 5rem;
+  padding-bottom: 1rem;
+}
+
+.social-media i:hover {
+  transform: scale(1.5);
+  transition: 0.3s ease;
+}
+
+.contact-us a {
+  background-color: #fff;
+  color: #333;
+  padding: 5px 10px;
+  text-decoration: none;
+  <<<<<<< HEAD: css/style.css border-radius: 10px;
+  box-shadow: 0 0 2px white;
+}
+
+=======border-radius: 5%;
+
+
+.button-footer:hover {
+  background-color: black;
+  color: aliceblue;
+  transition: 0.3s ease;
+}
+
+>>>>>>>1c08080d170d7af150137933b5094262978b94f8:css/styleHome.css
